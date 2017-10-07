@@ -1,0 +1,39 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.caja{
+	background: skyblue;
+	margin: 20px auto;
+	width: 600px;
+	border-style: groove;
+	padding: 1em;
+	box-sizing: border-box;
+}
+
+#cadena{
+	width: 100%;
+	padding: 7px;
+	box-sizing: border-box;
+	border-style: none;
+	margin-bottom: 10px;
+}
+
+h3{
+	font-family: sans-serif;
+	color: white;
+	font-weight: bold;
+	margin-bottom: 7px;
+}
+
+#traducido{
+	width: 100%;
+	padding: 7px;
+	border-style: none;
+	box-sizing: border-box;
+	background: lightblue;
+}
+
